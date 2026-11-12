@@ -6,7 +6,7 @@ Link da apresentação do projeto: https://www.youtube.com/watch?v=al9lltvjfKE
 
 
 # 💫 About Me:
-ZF Group Limeira/Brazil<br>Smart Factory computer engineering intern<br>IoT - industia 4.0
+ZF Group Limeira/Brazil<br>Smart Factory computer engineering intern<br>IoT - Industry 4.0
 
 
 ## 🌐 Socials:
